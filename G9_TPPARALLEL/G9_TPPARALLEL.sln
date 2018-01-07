@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercice4", "exercice4\exercice4.csproj", "{DC4796C5-6ECA-4BBA-9665-6BBADDB7302B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercice5", "exercice5\exercice5.csproj", "{5299CE5A-3E52-4D51-9F48-F20C8116AC26}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercice6", "exercice6\exercice6.csproj", "{70E40B68-29BC-4BA3-981C-63EFA9AF7A09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC4796C5-6ECA-4BBA-9665-6BBADDB7302B}.Debug|x86.ActiveCfg = Debug|x86
+		{DC4796C5-6ECA-4BBA-9665-6BBADDB7302B}.Debug|x86.Build.0 = Debug|x86
+		{DC4796C5-6ECA-4BBA-9665-6BBADDB7302B}.Release|x86.ActiveCfg = Release|x86
+		{DC4796C5-6ECA-4BBA-9665-6BBADDB7302B}.Release|x86.Build.0 = Release|x86
+		{5299CE5A-3E52-4D51-9F48-F20C8116AC26}.Debug|x86.ActiveCfg = Debug|x86
+		{5299CE5A-3E52-4D51-9F48-F20C8116AC26}.Debug|x86.Build.0 = Debug|x86
+		{5299CE5A-3E52-4D51-9F48-F20C8116AC26}.Release|x86.ActiveCfg = Release|x86
+		{5299CE5A-3E52-4D51-9F48-F20C8116AC26}.Release|x86.Build.0 = Release|x86
+		{70E40B68-29BC-4BA3-981C-63EFA9AF7A09}.Debug|x86.ActiveCfg = Debug|x86
+		{70E40B68-29BC-4BA3-981C-63EFA9AF7A09}.Debug|x86.Build.0 = Debug|x86
+		{70E40B68-29BC-4BA3-981C-63EFA9AF7A09}.Release|x86.ActiveCfg = Release|x86
+		{70E40B68-29BC-4BA3-981C-63EFA9AF7A09}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
